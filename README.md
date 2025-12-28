@@ -9,7 +9,7 @@ QuickBite experienced a sudden customer trust crisis, leading to a drop in order
 ![image alt](Home.png)
 
 ## 📌 Staff & Operations
-![image alt](Executive_View.png)
+![image alt](Clinincal.png)
 
 ## 📌 Finance & Billing
 ![image alt](Customers_View.png)

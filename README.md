@@ -6,7 +6,7 @@ This project analyzes **IVF clinical data**,to uncover trends in treatment outco
 QuickBite experienced a sudden customer trust crisis, leading to a drop in orders, ratings, sentiment, and service performance.
 
 ## 📌 Patient Management Tracker
-![image alt](Home.png)
+![image alt](home.png)
 
 ## 📌 Staff & Operations
 ![image alt](Clinincal.png)

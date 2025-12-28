@@ -2,20 +2,23 @@
 
 This project analyzes **IVF clinical data**,to uncover trends in treatment outcomes, patient demographics, and operational efficiency. The objective is to help clinics improve success rates, patient experience, and resource utilization through data-driven insights.
 
+## 📌 Home
+![image alt](home.png)
+
 ## 📌 Clinical Overview
-QuickBite experienced a sudden customer trust crisis, leading to a drop in orders, ratings, sentiment, and service performance.
+![image alt](Clinical.png)
 
 ## 📌 Patient Management Tracker
 ![image alt](home.png)
 
 ## 📌 Staff & Operations
-![image alt](Clinincal.png)
+![image alt](Staff.png)
 
 ## 📌 Finance & Billing
-![image alt](Customers_View.png)
+![image alt](Finance.png)
 
 ## 📌 Equipement
-![image alt](Restaurant_View.png)
+![image alt](Equipment.png)
 
 **This analysis aims to:**
 - Analyzed patient demographics, treatment cycles, age groups, and success rates

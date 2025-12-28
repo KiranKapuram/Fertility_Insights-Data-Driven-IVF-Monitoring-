@@ -3,7 +3,7 @@
 This project analyzes **IVF clinical data**,to uncover trends in treatment outcomes, patient demographics, and operational efficiency. The objective is to help clinics improve success rates, patient experience, and resource utilization through data-driven insights.
 
 ## 📌 Home
-![image alt](Screenshots.zip/home.png)
+![image alt](home.png)
 
 ## 📌 Clinical Overview
 ![image alt](Clinical.png)

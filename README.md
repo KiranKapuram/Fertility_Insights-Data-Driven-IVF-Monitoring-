@@ -9,7 +9,7 @@ This project analyzes **IVF clinical data**,to uncover trends in treatment outco
 ![image alt](Clinical.png)
 
 ## 📌 Patient Management Tracker
-![image alt](patient.png)
+![image alt](patients.png)
 
 ## 📌 Staff & Operations
 ![image alt](staff.png)

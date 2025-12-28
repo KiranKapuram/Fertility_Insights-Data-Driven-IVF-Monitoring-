@@ -12,7 +12,7 @@ This project analyzes **IVF clinical data**,to uncover trends in treatment outco
 ![image alt](home.png)
 
 ## 📌 Staff & Operations
-![image alt](Staff.png)
+![image alt](staff.png)
 
 ## 📌 Finance & Billing
 ![image alt](Finance.png)
